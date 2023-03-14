@@ -1,0 +1,119 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.projecthome {
+
+    padding: 60px;
+    text-align: center;
+    background-color: #eee;
+    height: 100vh;
+}
+
+.projecthome-heading {
+    color: #ff8c32;
+    font-family: "Serif";
+    text-align: center;
+}
+
+
+.projecthome-para {
+    color: #06113c;
+    font-family: "Roboto";
+    text-align: center;
+}
+
+.projecthome-form {
+    padding: 10px;
+    margin: 10px;
+}
+
+.button-forlogin {
+    background-color: #06113c;
+    width: 135px;
+    color: white;
+    width: 135px;
+    padding: 5px;
+    border-radius: 10px;
+    margin: 10px;
+}
+
+
+.section-homepage-lastpara {
+    color: gray;
+}
+
+.for-signup {
+    color: blue;
+}
+
+.for-forgetpass {
+    color: red;
+}
+
+
+.section-homepage-lastpara {
+    color: gray;
+}
+
+.projectsecond {
+    padding: 20px;
+    text-align: center;
+    background-color: white;
+}
+
+.grid-item {
+    border-radius: 10px;
+    background-color: #eee;
+    text-align: center;
+
+}
+
+.projectsecond-card-heading {
+    color: #ff8c32;
+    font-family: "Sans-Serif";
+    font-size: 25px;
+}
+
+.projectsecond-card-list {
+    color: #06113c;
+}
+
+
+.arrow {
+    border: solid black;
+    border-width: 0 3px 3px 0;
+    display: inline-block;
+    padding: 3px;
+}
+
+
+.right {
+    transform: rotate(-45deg);
+    -webkit-transform: rotate(135deg);
+}
+
+
+.second-button {
+    color: #06113c;
+    background-color: #eee;
+    border: 0px;
+
+    font-weight: bold;
+}
+
+.for-heading-intable {
+    color: #ff8c32;
+}
+
+.for-data-intable {
+    color: #06113c;
+}
+
+
+.for-table-background {
+    height: 100vh;
+    background-color: #eee;
+}
+
+.for-status {
+    color: green;
+}

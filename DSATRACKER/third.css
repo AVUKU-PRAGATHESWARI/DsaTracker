@@ -1,0 +1,41 @@
+.projectthird {
+    text-align: center;
+    padding: 10px;
+    background-color: #eee;
+    height: 100vh;
+}
+
+.projectthird-heading{
+    color: #ff8c32;
+    font-family: "Serif";
+    text-align: center;
+}
+
+.projectthird-para{
+    color: #06113c;
+    font-size: large;
+}
+
+.question-card {
+    background-color: aliceblue;
+    border-radius: 10px;
+    padding: 10px;
+    border-bottom: 15px solid #eee;
+}
+
+.question-title {
+    font-weight: bold;
+    font-size: 20px;
+    color: #06113c;
+}
+
+.solve-button {
+    width: 135px;
+    border: 0px;
+    font-weight: bold;
+    font-size: 19px;
+    color: #ff8c32;
+    border-radius: 15px;
+    background-color:aliceblue;
+    border: 1px solid #ff8c32;
+}
